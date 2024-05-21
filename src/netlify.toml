@@ -1,0 +1,7 @@
+[build]
+  publish = "src"
+
+[[redirects]]
+  from = "/.well-known"
+  to = "/.well-known/webfinger.txt"
+  status = 200
