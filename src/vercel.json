@@ -9,9 +9,15 @@
   ],
   "routes": [
     {
-      "src": "/.well-known/*",
-      "dest": "/.well-known/*"
+      "src": "/.well-known/webfinger.txt",
+      "dest": "/.well-known/webfinger.txt"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/.well-known",
+      "destination": "/.well-known/webfinger.txt",
+      "permanent": true
     }
   ]
 }
- 
