@@ -1,0 +1,27 @@
+Confidential Data:
+
+Employee Information:
+Name: Alice Johnson
+Employee ID: 987654
+Department: Marketing
+Position: Marketing Manager
+Salary: $95,000 per year
+Date of Birth: May 15, 1980
+Address: 456 Elm Street, Townsville, State, Zip Code
+
+Medical Records:
+Blood Type: AB-
+Height: 5 feet 6 inches
+Weight: 150 lbs
+Allergies: Penicillin
+Medical Conditions: Hypertension
+
+Financial Information:
+Bank Account: 1234-5678-9012-3456
+Credit Card: 9876-5432-1098-7654
+Credit Score: 800
+Monthly Expenses: $3000
+Savings: $50,000
+Investments: $100,000
+
+ Flag: HYST3R{F4k3_C0nf1d3nt1@l_Data_123}
